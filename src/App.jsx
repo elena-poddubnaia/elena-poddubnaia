@@ -155,7 +155,7 @@ export default function App() {
       <section className="w-full max-w-3xl bg-white rounded-2xl shadow p-6 mb-6">
         <h3 className="text-xl font-semibold mb-2 text-blue-700">Skills</h3>
         <div className="flex flex-wrap gap-2">
-          {['Java', 'Core Java', 'Multithreading', 'Spring Boot', 'SQL', 'React', 'TypeScript', 'JavaScript', 'Microservices', 'Agile/SCRUM', 'Code Reviews', 'Unit Testing', 'Test Automation', 'Database Query Optimization', 'Technical Mentoring', 'Cloud Computing', 'Frontend Development', 'Backend Development'].map(skill => (
+          {['Java', 'Core Java', 'Multithreading', 'Spring Boot', 'SQL', 'React', 'TypeScript', 'JavaScript', 'Microservices', 'Agile/SCRUM', 'Code Reviews', 'Unit Testing', 'Database Query Optimization', 'Technical Mentoring', 'Cloud Computing', 'Frontend Development', 'Backend Development'].map(skill => (
             <span key={skill} className="bg-blue-50 text-blue-700 rounded-full px-3 py-1 text-xs font-medium hover:scale-105 transition">{skill}</span>
           ))}
         </div>
