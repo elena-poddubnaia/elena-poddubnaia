@@ -44,7 +44,7 @@ export const resumeData: ResumeData = {
         "Refactor application from Oracle BUS to Java microservices",
         "Improved observability by creating Grafana dashboards and alert monitors, which led to a 50% faster incident resolution time"
       ],
-      techStack: ["Java", "Spring Boot", "Multithreading", "Microservices", "SQL", "XP Practices", "Mockito", "Grafana"]
+      techStack: ["Java", "Spring Boot", "Multithreading", "Microservices", "SQL", "XP Practices", "Mockito", "Grafana", "E2E Test Automation"]
     },
     {
       company: "A.P.Moller-Maersk",
@@ -57,7 +57,7 @@ export const resumeData: ResumeData = {
         "Improved PR review workflow by standardizing communication and adding visual context (screenshots, videos) reducing review time",
         "Led development of a Email SendGrid integration and template unifying features cutting deployment and update time by 70% and aligning branding across multiple teams and services"
       ],
-      techStack: ["TypeScript", "Vue.js", "Pinia", "Vitest", "Agile"]
+      techStack: ["TypeScript", "Vue.js", "Pinia", "Vitest", "Agile", "unit test"]
     },
     {
       company: "Twill",
@@ -81,7 +81,7 @@ export const resumeData: ResumeData = {
         "Wrote end-to-end tests for integration points covering 90% of critical backend workflows",
         "Conducted 200+ unit, integration, system, and regression test cases, ensuring high test coverage across core application features"
       ],
-      techStack: ["Insomnia", "Postman", "SOAP UI", "JavaScript", "SQL", "Jira", "OOP"]
+      techStack: ["Insomnia", "Postman", "SOAP UI", "JavaScript", "SQL", "Jira", "OOP", "Maven"]
     }
   ],
   education: {
