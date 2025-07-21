@@ -81,7 +81,7 @@ export const resumeData: ResumeData = {
         "Wrote end-to-end tests for integration points covering 90% of critical backend workflows",
         "Conducted 200+ unit, integration, system, and regression test cases, ensuring high test coverage across core application features"
       ],
-      techStack: ["Insomnia", "Postman", "SOAP UI", "JavaScript", "SQL", "Jira"]
+      techStack: ["Insomnia", "Postman", "SOAP UI", "JavaScript", "SQL", "Jira", "OOP"]
     }
   ],
   education: {
