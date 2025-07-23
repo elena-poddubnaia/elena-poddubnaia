@@ -38,40 +38,39 @@ export const resumeData: ResumeData = {
       period: "Feb 2025 - Present (6 months)",
       title: "Java Developer",
       responsibilities: [
-        "Updated onboarding documentation",
-        "Improved code quality by integrating SonarQube into the CI pipeline, reducing code smells by 40%",
-        "Conducted 50+ live coding interviews",
         "Refactor application from Oracle BUS to Java microservices",
-        "Improved observability by creating Grafana dashboards and alert monitors, which led to a 50% faster incident resolution time"
+        "Improved observability by creating Grafana dashboards and alert monitors, which led to a 50% faster incident resolution time",
+        "Conducted 50+ live coding interviews",
+        "Improved code quality by integrating SonarQube into the CI pipeline, reducing code smells by 40%",
+        "Cut onboarding time for engineers from 5 days to 3 days by improving onboarding documentation with clear, step-by-step instructions for software installation and access setup"
       ],
-      techStack: ["Java", "Spring Boot", "Multithreading", "Microservices", "SQL", "XP Practices", "Mockito", "Grafana", "E2E Test Automation"]
+      techStack: ["Java", "Spring Boot", "Multithreading", "Microservices", "SQL", "XP Practices", "e2e Test Automation", "Mockito", "Grafana"]
     },
     {
       company: "A.P.Moller-Maersk",
       period: "Nov 2023 - Jan 2025 (2 years 2 months)",
       title: "Frontend Developer",
       responsibilities: [
-        "Learned Vue.js framework",
+        "Led development of a Email SendGrid integration and template unifying features cutting deployment and update time by 70% and aligning branding across multiple teams and services.",
+        "Improved PR review workflow by standardizing communication and adding visual context (screenshots, videos) reducing review time.",
         "Onboarded 3 engineers to Notifications domain",
         "Participated in Vue.js Live 2024 conference and Maersk Frontend Days conference",
-        "Improved PR review workflow by standardizing communication and adding visual context (screenshots, videos) reducing review time",
-        "Led development of a Email SendGrid integration and template unifying features cutting deployment and update time by 70% and aligning branding across multiple teams and services"
+        "Learned Vue.js framework"
       ],
-      techStack: ["TypeScript", "Vue.js", "Pinia", "Vitest", "Agile", "unit test"]
+      techStack: ["TypeScript", "Vue.js", "Pinia", "Vitest", "e2e", "unit test", "Agile"]
     },
     {
       company: "Twill",
       period: "May 2022 - Oct 2023 (1 year 6 months)",
       title: "Frontend Developer",
       responsibilities: [
-        "Learned Vue.js framework",
-        "Improved linting rules",
-        "Wrote Junit unit tests achieving 80% test coverage for new code",
         "Led development of a notification feature that increased user engagement by 15% within the first month of release",
         "Mentored 3 junior engineers",
-        "Led Frontend community weekly meetings"
+        "Wrote Junit unit tests achieving 80% test coverage for new code",
+        "Led Frontend community weekly meetings ",
+        "Improved linting rules"
       ],
-      techStack: ["TypeScript", "React.js", "Cypress.js", "Jest", "JavaScript", "Material UI"]
+      techStack: ["TypeScript", "React.js", "Cypress.js", "Jest", "JavaScript", "CSS", "HTML", "Material UI", "styled component"]
     },
     {
       company: "State Street",
@@ -81,7 +80,7 @@ export const resumeData: ResumeData = {
         "Wrote end-to-end tests for integration points covering 90% of critical backend workflows",
         "Conducted 200+ unit, integration, system, and regression test cases, ensuring high test coverage across core application features"
       ],
-      techStack: ["Insomnia", "Postman", "SOAP UI", "JavaScript", "SQL", "Jira", "OOP", "Maven"]
+      techStack: ["Insomnia", "Postman", "SOAP UI", "JavaScript", "SQL", "Jira", "OOP"]
     }
   ],
   education: {
